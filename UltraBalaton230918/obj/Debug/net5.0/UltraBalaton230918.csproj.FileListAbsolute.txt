@@ -1,0 +1,16 @@
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.exe
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.deps.json
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.runtimeconfig.json
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.runtimeconfig.dev.json
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.dll
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\ref\UltraBalaton230918.dll
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\bin\Debug\net5.0\UltraBalaton230918.pdb
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.csproj.AssemblyReference.cache
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.AssemblyInfoInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.AssemblyInfo.cs
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.csproj.CoreCompileInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.dll
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\ref\UltraBalaton230918.dll
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.pdb
+C:\Users\Ny19MarcalekM\source\repos\UltraBalaton230918\UltraBalaton230918\obj\Debug\net5.0\UltraBalaton230918.genruntimeconfig.cache
